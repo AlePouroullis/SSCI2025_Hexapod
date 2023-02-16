@@ -1,0 +1,4 @@
+[submodule "honours-project-hexapod"]
+	path = honours-project-hexapod
+	url = https://github.com/DavidBlore/honours-project-hexapod
+	branch = gecco_paper
