@@ -1,4 +1,4 @@
-[submodule "honours-project-hexapod"]
-	path = honours-project-hexapod
+[submodule "cpg-controller"]
+	path = cpg-controller
 	url = https://github.com/DavidBlore/honours-project-hexapod
 	branch = gecco_paper
