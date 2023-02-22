@@ -6,5 +6,5 @@
 	path = supg-controller
 	url = https://github.com/Julius-Smith/Hexapod---SUPG
 [submodule "GeccoPaper"]
-	path = ann-controller
+	path = ann-controllers
 	url = https://github.com/sctmic015/GeccoPaper
