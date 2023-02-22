@@ -24,7 +24,7 @@ Each of the different controllers used in the paper have their own GitHub repo. 
 
 | Controller     | Folder/Submodule |
 |----------------|------------------|
-| HyperNEAT+NEAT | ann-controller   |
+| HyperNEAT+NEAT | ann-controllers  |
 | CPG            | cpg-controller   |
 | SUPG           | supg-controller  |
  
