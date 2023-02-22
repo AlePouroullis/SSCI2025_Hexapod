@@ -22,9 +22,9 @@ Coming soon
 Each of the different controllers used in the paper have their own GitHub repo. For simplicity, the different controllers independent repos have been added as submodules (i.e., links to them). The correlation between each controller and their respective folder/submodule in this repo is detailed below:
 
 
-| Controller     | Folder/Submodule |
-|----------------|------------------|
-| HyperNEAT+NEAT | ann-controllers  |
-| CPG            | cpg-controller   |
-| SUPG           | supg-controller  |
+| Controller      | Folder/Submodule |
+|-----------------|------------------|
+| HyperNEAT+NEAT  | ann-controllers  |
+| CPG + Reference | cpg-controller   |
+| SUPG            | supg-controller  |
  
