@@ -2,9 +2,9 @@
 	path = cpg-controller
 	url = https://github.com/DavidBlore/honours-project-hexapod
 	branch = gecco_paper
-[submodule "GeccoPaper"]
+[submodule "ann-controllers"]
 	path = ann-controllers
-	url = https://github.com/sctmic015/GeccoPaper
+	url = git@github.com:AlePouroullis/ANN_Controllers_TELO_Hexxapod_2024.git
 [submodule "supg-controller"]
 	path = supg-controller
 	url = git@github.com:AlePouroullis/SUPG_TELO_Hexapod_2024.git
