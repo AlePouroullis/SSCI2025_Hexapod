@@ -5,3 +5,6 @@
 [submodule "GeccoPaper"]
 	path = ann-controllers
 	url = https://github.com/sctmic015/GeccoPaper
+[submodule "supg-controller"]
+	path = supg-controller
+	url = git@github.com:AlePouroullis/SUPG_TELO_Hexapod_2024.git
