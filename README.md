@@ -1,6 +1,6 @@
 # Automated Damage Control in a Hexapod Robot
 
-This repository contains all of the code necessary to replicate the simulated experiments from the paper we submitted to the Gecco 2023 conference.   
+This repository contains all of the code necessary to replicate the simulated experiments for automated damage recovery in hexapod robots using various controllers: HyperNEAT & NEAT (ANN controllers), CPG & Reference, SUPG.
 
 
 ## Python package dependencies
