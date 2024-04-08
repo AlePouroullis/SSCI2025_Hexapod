@@ -1,4 +1,5 @@
-# Automated Damage Control in a Hexapod Robot
+#TELO Hexapod 2024
+## Automated Damage Control in a Hexapod Robot
 
 This repository contains all of the code necessary to replicate the simulated experiments for automated damage recovery in hexapod robots using various controllers: HyperNEAT & NEAT (ANN controllers), CPG & Reference, SUPG.
 
